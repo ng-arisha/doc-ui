@@ -13,12 +13,12 @@ function Hero() {
             Deploying Expertise Across Africa and the Middle East
           </p>
           <div className="flex flex-col sm:flex-row gap-4 items-start sm:items-center">
-            <button className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105">
+            <a href="mailto: info@ksmstaffing.com?subject=REQUEST FOR DOCTORS" className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105">
               Request Doctors
-            </button>
+            </a>
             <div className="flex items-center gap-2 text-lg">
               <Phone className="w-5 h-5" />
-              <span>+254 700 123 456</span>
+              <span>+254 719 498 019</span>
             </div>
           </div>
         </div>
