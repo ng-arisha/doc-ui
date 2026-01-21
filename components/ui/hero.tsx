@@ -13,7 +13,7 @@ function Hero() {
             Deploying Expertise Across Africa and the Middle East
           </p>
           <div className="flex flex-col sm:flex-row gap-4 items-start sm:items-center">
-            <a href="mailto: info@ksmstaffing.com?subject=REQUEST FOR DOCTORS" className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105">
+            <a href="mailto: info@ksmoutsourcing.com?subject=REQUEST FOR DOCTORS" className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105">
               Request Doctors
             </a>
             <div className="flex items-center gap-2 text-lg">

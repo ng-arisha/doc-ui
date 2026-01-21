@@ -15,9 +15,9 @@ function Cta() {
             </p>
             <div className="flex items-center gap-3 text-xl">
               <Mail className="w-6 h-6 text-green-400" />
-              <span className="text-green-400 font-semibold">info@ksmstaffing.com</span>
+              <span className="text-green-400 font-semibold">info@ksmoutsourcing.com</span>
             </div>
-            <a href="mailto: info@ksmstaffing.com" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105">
+            <a href="mailto: info@ksmoutsourcing.com" className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-2xl font-semibold text-lg shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-105">
               Get Started Today
             </a>
           </div>
